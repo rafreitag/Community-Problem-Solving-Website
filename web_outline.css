@@ -1,0 +1,62 @@
+body {
+    background-image: url("[insert link to background image]");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1440px 1000px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: [insert name of font here];
+    color: [color];
+    text-shadow: 3px 2px [color];
+    text-align: center;
+}
+
+#p1 {
+    font-size: 20px;
+    font-family: [insert name of font here];
+    color: [color];
+    text-align: center;
+}
+
+#p2 {
+    font-size: 15px;
+    font-family: [insert name of font here];
+    color: [color];
+    text-align: center;
+}
+
+#button1 {
+    background-color: [color];
+    border: none;
+    color: [color];
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: [insert name of font here];
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+
+#button2 {
+    background-color: [color];
+    border: none;
+    color: [color];
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-family: [insert name of font here];
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+
+#button1:hover {
+    background-color: rgba([red], [green], [blue], [transparency]);
+}
