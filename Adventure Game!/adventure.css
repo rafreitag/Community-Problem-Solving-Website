@@ -1,0 +1,110 @@
+#body1 {
+    background-image: url("https://jesakalong.files.wordpress.com/2012/02/fork-in-the-road.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 1440px 810px;
+    background-attachment: fixed;
+}
+
+#body2 {
+	background-image: url("https://vignette.wikia.nocookie.net/kirbyrp/images/7/79/Castlededede.jpg/revision/latest?cb=20110821033442");
+	background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 1440px 810px;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+    color: white;
+    text-align: center;
+}
+
+#Kirby {
+	position: fixed;
+	width: 200px;
+	height: 200px;
+	top: 80%;
+	left: 70%;
+	margin-top: -100px;
+	margin-left: -250px;
+}
+
+#WaddleDoo {
+	position: fixed;
+	width: 200px;
+	height: 200px;
+	top: 50%;
+	left: 35%;
+	margin-top: -100px;
+	margin-left: -250px;
+}
+
+#WaddleDee {
+	position: fixed;
+	width: 180px;
+	height: 180px;
+	top: 60%;
+	left: 40%;
+	margin-top: -100px;
+	margin-left: -250px;
+}
+
+#KingDedede {
+	position: fixed;
+	width: 180px;
+	height: 180px;
+	top: 60%;
+	left: 40%;
+	margin-top: -100px;
+	margin-left: -250px;
+}
+
+#cake {
+	position: fixed;
+	width: 180px;
+	height: 180px;
+	top: 57%;
+	left: 60%;
+	margin-top: -100px;
+	margin-left: -250px;
+}
+
+button {
+	margin: 0 auto;
+	display: block;
+    background-color: #865ebe;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+}
+
+.speech-bubble {
+    background-color: #f8f8f8;
+    border: 1px solid #c8c8c8;
+    border-radius: 5px;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+    top: 30%;
+	left: 25%;
+    position: absolute;
+    font-family: "Comic Sans MS", Comic Sans, cursive;
+}
+
+.speech-bubble .arrow {
+    border-style: solid;
+    position: absolute;
+}
+ 
+.bottom {
+    border-color: #c8c8c8 transparent transparent transparent;
+    border-width: 8px 8px 0px 8px;
+    bottom: -8px;
+}
